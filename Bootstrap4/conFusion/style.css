@@ -1,0 +1,21 @@
+.jumbotron {
+  background-color: #a06cd5;
+  color: aliceblue;
+}
+.footer {
+  background-color: #cab6df;
+}
+.jad {
+  margin: 60px auto 60px auto;
+}
+.footer {
+  padding-top: 20px;
+}
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+
+.navbar-dark {
+  background-color: #512da8;
+}
